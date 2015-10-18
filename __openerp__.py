@@ -3,15 +3,19 @@
     'name': "cnpe_meeting",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        CNPE meeting schdule and meeting room booking tools.
+        For tsc only""",
 
     'description': """
-        Long description of module's purpose
+        CNPE meeting schdule and meeting room booking tools.
+        - create meeting room.
+        - meeting room booking.
+        - meeting scheduling.
+        - meeting room managing.
     """,
 
     'author': "Mack Fire",
-    'website': "http://www.yourcompany.com",
+    'website': "http://tsc.cnpe.cc",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml
